@@ -34,3 +34,4 @@ while (c <= 999)
 putchar('\n');
 return (0);
 }
+}
