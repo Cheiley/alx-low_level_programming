@@ -31,7 +31,7 @@ while (c <= 999)
 		}
 	}
 	c++;
+}
 putchar('\n');
 return (0);
-}
 }
