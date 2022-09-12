@@ -2,12 +2,13 @@
 
 /**
  * main - entry point
- * Description: this function will print the line
- * 'programming is like building a mutilingual puzzle
+ * Description: using the main function
+ * this program prints 'programming is like building a mutilingual puzzle
  * Return: 0
  */
 int main(void)
-{ puts("\"Programming is like building a mutilingual puzzle.");
+{
+	puts("\"Programming is like building a mutilingual puzzle.");
 	return (0);
 }
 
